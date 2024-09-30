@@ -7,7 +7,7 @@ async fn main() {
 
     // NOTE: this line is just to get you started ...
     let resp = client
-        .get("https://dev.laiout.app/applicant/getChallenge")
+        .get("https://dev.laiout.app/api/applicant/getChallenge")
         .send()
         .await;
 
