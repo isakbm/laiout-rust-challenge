@@ -19,7 +19,7 @@ async fn main() {
     //    "instructions": <...>,
     // }
     //
-    // When successfull you will be given a `secret` from the `applicant/checkChallengeSolution`
+    // When successful you will be given a `secret` from the `applicant/checkChallengeSolution`
     // endpoint. Enter this secret in the job application.
 }
 
